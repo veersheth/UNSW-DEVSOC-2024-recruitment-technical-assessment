@@ -1,3 +1,4 @@
+### Installation
 ```bash
 git clone https://github.com/veersheth/UNSW-DEVSOC-2024-recruitment-technical-assessment
 cd UNSW-DEVSOC-2024-recruitment-technical-assessment
@@ -5,6 +6,7 @@ cd frontend
 npm install
 npm run start
 ```
+---
 
 # DevSoc 2024 Subcommittee Recruitment Technical Assessment
 
