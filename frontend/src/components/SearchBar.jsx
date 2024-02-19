@@ -20,6 +20,7 @@ function SearchBar() {
                 Search for a course e.g. COMP1511
             </div>
             <div className={`search-window ${isFocused ? 'visible' : ''}`}>
+                <p><a href="https://veersheth.in/">https://veersheth.in/</a></p>
                 <button className="dismiss-search" onClick={handleDismiss}>Dismiss</button>
             </div>
         </div>
